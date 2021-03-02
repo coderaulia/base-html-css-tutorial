@@ -2,7 +2,7 @@
 
 ## Kedepannya akan menjadi file template starter untuk responsive website design.
 
-** Task for myself **
+**Task for myself**
 
 - [x] Membuat base folder & base index file
 - [ ] Membuat struktur website sederhana di file HTML.
